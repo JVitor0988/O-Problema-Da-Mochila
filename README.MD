@@ -15,4 +15,4 @@ Este é um exemplo de implementação em Python de um algoritmo genético para r
 3. Execute o seguinte comando para rodar o código:
 
    ```bash
-   python genetic_knapsack.py
+   python O Problema Da Mochila.py
